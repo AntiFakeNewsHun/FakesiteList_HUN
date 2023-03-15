@@ -9,6 +9,10 @@ A FakesiteListHUN célja egy olyan adblock szűrőlista létrehozása és karban
     <a href="https://getadblock.com/"><img src="https://gist.githubusercontent.com/scripthunter7/45f46156b3e4efdd13817ffc57389feb/raw/6024bd84726be876839925f328faa3afb45e0534/adblock_logo.svg" width="14px"> AdBlock</a> 
 </p>
 
+## Telepítés
+A reklámblokkolója szűrőlisták szakaszában adja hozzá a következő URL-t:
+https://raw.githubusercontent.com/FakesiteListHUN/FakesiteListHUN/main/fakesitelist
+
 ## Közreműködés
-Ha munkáddal hozzá szeretnél járulni a projekthez, akkor kérlek, készíts egy pull request-et [itt](https://github.com/FakesiteListHUN/FakesiteListHUN/pulls).
+Ha munkájával hozzá szeretne járulni a projekthez, akkor kérem, készítsen egy pull request-et [itt](https://github.com/FakesiteListHUN/FakesiteListHUN/pulls).
 <br>Köszönöm a közreműködést!
