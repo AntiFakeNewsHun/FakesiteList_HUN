@@ -1,6 +1,17 @@
 
 ## Mi a célja ennek a listának?
 A FakesiteListHUN célja egy olyan adblock szűrőlista létrehozása és karbantartása, amely kiszűri az álhíreket, clickbait híreket és a káros magyar oldalakat.
+
+## Források
+https://hvg.hu/tudomany/20150119_atveros_weboldalak <br>
+https://hvg.hu/tudomany/20180720_facebook_kamu_nyeremenyjatek_sorsolas_atveres_csalas_osztva <br>
+http://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/ <br>
+http://www.urbanlegends.hu/2019/01/megteveszto-magyar-hiroldalak-listaja-2019/ <br> 
+https://www.urbanlegends.hu/2020/01/megteveszto-magyar-hiroldalak-listaja-2020/ <br>
+https://www.urbanlegends.hu/forraselemzes/ <br>
+https://www.kelecsenyi.info/cookie-tajekoztato?view=article&id=143 <br>
+https://makay.net/alhir-atveres-kamu-weboldalak/ <br>
+
 ## Támogatott hirdetésblokkolók
 <p align="center">
     <a href="https://adguard.com/"><img src="https://gist.githubusercontent.com/scripthunter7/6378a96b61b927357f39a33d3abc5af7/raw/e306604fd548ac1b2de70d2a5d8a43017496f221/adguard_logo.svg" width="14px"> AdGuard</a> |
