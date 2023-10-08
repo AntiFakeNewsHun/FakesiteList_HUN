@@ -11,6 +11,8 @@ https://www.urbanlegends.hu/2020/01/megteveszto-magyar-hiroldalak-listaja-2020/ 
 https://www.urbanlegends.hu/forraselemzes/ <br>
 https://www.kelecsenyi.info/cookie-tajekoztato?view=article&id=143 <br>
 https://makay.net/alhir-atveres-kamu-weboldalak/ <br>
+https://github.com/radokristof/HunFakeNewsAdblockList <br>
+https://github.com/gencsimihaly/hungarian-fakenews-dataset <br>
 
 ## Támogatott hirdetésblokkolók
 <p align="center">
@@ -21,7 +23,8 @@ https://makay.net/alhir-atveres-kamu-weboldalak/ <br>
 </p>
 
 ## Telepítés
-A reklámblokkolója szűrőlisták szakaszában adja hozzá a következő URL-t:
+Reklámblokkoló telepítése után kattintson [ide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/FakesiteListHUN/FakesiteListHUN/main/fakesitelist&title=FakesiteListHUN), majd iratkozzon fel a listára. <br>
+Amenyiben nem történik semmi, a reklámblokkolója saját/külső szűrőlisták szakaszában adja hozzá a következő URL-t:
 https://raw.githubusercontent.com/FakesiteListHUN/FakesiteListHUN/main/fakesitelist
 
 ## Közreműködés
