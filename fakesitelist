@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.0
+! Version: 1.1
 ! Title: Magyar álhír oldal gyűjtemény/FakesiteListHUN
-! Last modified: 2023.03.15
+! Last modified: 2023.10.18
 ! Expires:
 ! Homepage: https://github.com/FakesiteListHUN/FakesiteListHUN
 !
@@ -14,6 +14,8 @@
 !https://www.urbanlegends.hu/forraselemzes/
 !https://www.kelecsenyi.info/cookie-tajekoztato?view=article&id=143
 !https://makay.net/alhir-atveres-kamu-weboldalak/
+!https://github.com/radokristof/HunFakeNewsAdblockList
+!https://github.com/gencsimihaly/hungarian-fakenews-dataset
 
 !HVG:
 24ora.eu
@@ -276,12 +278,8 @@ selectproduct.hu
 
 !urbanlegends 2018:
 1helyen.eu
-egyazegyben.com
-egyenesen.com
-funtasztikus.eu
 hircsarda.hu
 kozpontiujsag.hu
-napimigrans.info
 szabadonebredok.blog
 vilaghelyzete.blogspot.hu
 
@@ -290,7 +288,6 @@ vilaghelyzete.blogspot.hu
 pestibulvar.hu
 rejtelyekszigete.com
 szupertanacsokblog.hu
-titokterminal.com
 ujvilagtudat.blogspot.com
 
 !urbalegends 2020:
@@ -300,7 +297,6 @@ fokusz.online
 bekezdes.co
 hirek24ora.com
 hirado.me
-magyarokvagyunk.com
 napivalasztek.com
 olkt.hu
 hirhugo.hu
@@ -343,22 +339,18 @@ hirado24.com
 hircenter.net
 hirbazis.com
 hirfolyam24.blogspot.com
-hirturi.blogspot.com
 hirtv-friss.blogspot.com
 ingyensteamkulcsok.blogspot.com
 ittahelye.hu
-kimondottigazsagok.com
 kulfoldiapro.com
 latnodkell.comlegjava.pro
 magyarnep.blogspot.com
-magyarokrol.com
 magyarorszagunk.com
 magyarsziv.com
 magyarzona.net
 maivalosag.com
 mediaforras.com
 meglesem.eu
-mindenegyben.com
 mindenegyben.eu
 mindennapokrol.blogspot.nl
 mosolyportal.eu
@@ -387,23 +379,17 @@ tudathalo.blogspot.com
 tudnivalok.eu
 tv2-hirek.blogspot.com
 videk.info
-vilaghelyzete.com
 visualartsbox.com
 xsense.net
 
 !makay
 5percblog.hu
-anephangja.com
-atudas-faja.hu
 bovebbenportal.com
 egybeminden.hu
 erdekesportal.com
 hir.ma
 hircafefm.blogspot.hu
-kimondottigazsagok.com
 libsifigyelo.hu
-palyazatfigyelo.info
-rejtelyekszigete.com
 tudatieletmatrix.com
 
 !urban2022
@@ -419,7 +405,6 @@ Hirzona.com
 Hiszed.com
 Informatialibera.ro/hu
 Kedvesszavak.info
-Mediaforras.com
 Mivilagunk.com
 Napitema.com
 Nyugdijasok.hu
@@ -466,9 +451,30 @@ facebook.com/titokterminal$all
 facebook.com/tutihirek.org$all
 facebook.com/ujvilagtudat$all
 facebook.com/varazslatosvilagunk$all
-facebook.com/varazslatosvilagunk$all
 facebook.com/worldismineshop$all
 facebook.com/zafinashopss$all
+
+!HunFakeNewsAdblockList
+civilhetes.net
+erdekesvilag.eu 
+fem3cafe-online.com
+femcafe-hir.com 
+fullank.hu
+hir-start.com 
+hir-tv.com 
+informatialibera.hu
+informatialibera.ro
+kuruc.info
+nlcafe.me 
+olkt.net
+pestisracok.hu
+rtlhirek-online.com 
+
+!hungarian-fakenews-dataset 
+blogmania.hu
+magyartudat.com
+nemzetihir.com
+elsokezbol.com
 
 !egyeb:
 anepszava.club
