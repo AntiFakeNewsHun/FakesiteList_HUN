@@ -2,6 +2,9 @@
 ## Mi a célja ennek a listának?
 A FakesiteListHUN célja egy olyan adblock szűrőlista létrehozása és karbantartása, amely kiszűri az álhíreket, clickbait híreket és a káros magyar oldalakat.
 
+Nézze meg másik projektemet, ahol csaló webáruházak vannak összegyűjtve
+https://github.com/FakesiteListHUN/FakeWebshopListHUN
+
 ## Források
 https://hvg.hu/tudomany/20150119_atveros_weboldalak <br>
 https://hvg.hu/tudomany/20180720_facebook_kamu_nyeremenyjatek_sorsolas_atveres_csalas_osztva <br>
@@ -15,11 +18,9 @@ https://github.com/radokristof/HunFakeNewsAdblockList <br>
 https://github.com/gencsimihaly/hungarian-fakenews-dataset <br>
 
 ## Támogatott hirdetésblokkolók
+Jelenleg csak uBlock Origin hirdetésblokkolókon van tesztelve a lista, későbbiekben további programok is támogatva lesznek
 <p align="center">
-    <a href="https://adguard.com/"><img src="https://gist.githubusercontent.com/scripthunter7/6378a96b61b927357f39a33d3abc5af7/raw/e306604fd548ac1b2de70d2a5d8a43017496f221/adguard_logo.svg" width="14px"> AdGuard</a> |
-    <a href="https://github.com/gorhill/uBlock"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/UBlock_Origin.svg" width="14px"> uBlock Origin</a> |
-    <a href="https://adblockplus.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Adblock_Plus_2014_Logo.svg" width="14px"> Adblock Plus</a> |
-    <a href="https://getadblock.com/"><img src="https://gist.githubusercontent.com/scripthunter7/45f46156b3e4efdd13817ffc57389feb/raw/6024bd84726be876839925f328faa3afb45e0534/adblock_logo.svg" width="14px"> AdBlock</a> 
+    <a href="https://github.com/gorhill/uBlock#ublock-origin-ubo"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/UBlock_Origin.svg" width="14px"> uBlock Origin</a>
 </p>
 
 ## Telepítés
