@@ -5,7 +5,7 @@ A FakesiteListHUN célja egy olyan adblock szűrőlista létrehozása és karban
 Nézze meg másik projektemet, ahol csaló webáruházak vannak összegyűjtve
 https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
-Amennyiben bármilyen médiafelületen szeretné megelíteni ezt a projektet, kérem előtte keressen fel.
+Amennyiben bármilyen médiafelületen szeretné megemlíteni ezt a projektet, kérem előtte keressen fel.
 
 ## Források
 https://hvg.hu/tudomany/20150119_atveros_weboldalak <br>
